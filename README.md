@@ -22,3 +22,8 @@
 *how to resolve conflicts
 
 *Install ubuntu 20.04 or 20.10
+
+**next week work**
+*Hooks
+*tik-tac-toe using react
+*report and presentation
